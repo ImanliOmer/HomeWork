@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.exe
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.deps.json
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.runtimeconfig.json
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.dll
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\bin\Debug\net5.0\taskyazili.pdb
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.AssemblyInfo.cs
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.dll
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\refint\taskyazili.dll
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.pdb
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\taskyazili.genruntimeconfig.cache
+C:\Users\Omer\Desktop\hometask\HomeTask\taskyazili\obj\Debug\net5.0\ref\taskyazili.dll

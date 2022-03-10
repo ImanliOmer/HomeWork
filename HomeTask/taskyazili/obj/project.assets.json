@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\task1\\reqemsal.csproj",
-      "projectName": "reqemsal",
-      "projectPath": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\task1\\reqemsal.csproj",
+      "projectUniqueName": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\taskyazili\\taskyazili.csproj",
+      "projectName": "taskyazili",
+      "projectPath": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\taskyazili\\taskyazili.csproj",
       "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\task1\\obj\\",
+      "outputPath": "C:\\Users\\Omer\\Desktop\\hometask\\HomeTask\\taskyazili\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
